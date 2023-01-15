@@ -1,0 +1,1389 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">	
+    <meta name="format-detection" content="telephone=no">
+    <meta name="theme-color" content="#3f78e0"/>
+    <title>Ücretsiz Site ve Bina Yönetim Programı - Soru Cevap</title><meta name="description" content=""/><meta name="robots" content="index, follow"/><meta name="copyright" content="wicyo.com"><meta name="language" content="tr"><link rel="shortcut icon" href="https://www.aidatim.com/Cdn/favicon.png"/>    <link rel="stylesheet" href="https://www.aidatim.com/Tasarim/css/plugins.css">
+    <link rel="stylesheet" href="https://www.aidatim.com/Tasarim/css/theme/blue.css">
+    <link rel="preload" href="https://www.aidatim.com/Tasarim/css/font/dm.css" as="style" onload="this.rel='stylesheet'">
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R803DBKY8W"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R803DBKY8W');
+</script>
+	
+</head>
+
+<body>
+<div class="content-wrapper">
+<header class="wrapper bg-soft-primary">
+    <nav class="navbar classic transparent navbar-expand-lg navbar-light">
+        <div class="container flex-lg-row flex-nowrap align-items-center">
+            <div class="navbar-brand" style="margin-right: 30px;">
+                <a href="index.html">
+                    <img width="120" src="https://www.aidatim.com/Cdn/logo.svg" alt="Aidatım Ücretsiz Bina Yönetim Programı"/>
+                </a>
+            </div>
+
+            <div class="navbar-collapse offcanvas-nav">
+                <div class="offcanvas-header d-lg-none d-xl-none">
+                    <a href="index.html">
+                        <img width="140" src="https://www.aidatim.com/Cdn/logo.svg" alt="Aidatım Ücretsiz Bina Yönetim Programı"/>
+                    </a>
+                    <button type="button" class="btn-close btn-close-white offcanvas-close offcanvas-nav-close"
+                            aria-label="Close"></button>
+
+                </div>
+                <div class="navbar-other w-100 d-flex ms-auto">
+                    <ul class="navbar-nav">
+
+                        <li class="nav-item" style="padding-right: 10px"><a class="nav-link" href="nasil-calisir">Nasıl
+                                Çalışır?</a></li>
+                        <li class="nav-item" style="padding-right: 10px"><a class="nav-link" href="ozellikler">Özellikler</a>
+                        </li>
+                        <li class="nav-item" style="padding-right: 10px"><a class="nav-link"
+                                                                            href="fiyatlar">Fiyatlar</a></li>
+                        <li class="nav-item" style="padding-right: 10px"><a class="nav-link" href="soru-cevap">Soru
+                                Cevap</a></li>
+
+                        <li class="nav-item dropdown d-md-none">
+                            <a href="#" role="button"
+                               data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Giriş Yap</a>
+                            <ul class="dropdown-menu">
+                                <li class="nav-item"><a class="dropdown-item" href="https://yonetici.aidatim.com">Yönetici
+                                        Girişi</a></li>
+                                <li class="nav-item"><a class="dropdown-item" href="https://app.aidatim.pro">Mesken
+                                        Girişi</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="navbar-other w-100 d-flex ms-auto">
+                <ul class="navbar-nav flex-row align-items-center ms-auto" data-sm-skip="true">
+                    <li class="nav-item d-none d-md-block">
+                        <a href="tel:08508403806">
+                            <i class="uil uil-phone-volume fs-22"
+                               style="top: 4px;position: relative;line-height: 12px;"></i> <b>0850 840 3806</b>
+                        </a>
+                    </li>
+                    <li class="nav-item  d-md-block">
+                        <a href="teklif-al" style="color:#343f52">
+                            <i class="uil uil-message fs-22" style="top: 2px;position: relative;line-height: 12px;"></i>
+                            <b>Teklif Al</b>
+                        </a>
+                    </li>
+
+                    <li class="nav-item  d-none d-md-block dropdown language-select ">
+                        <a class="btn btn-sm btn-primary" href="#" role="button"
+                           data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Giriş Yap</a>
+                        <ul class="dropdown-menu">
+                            <li class="nav-item"><a class="dropdown-item" href="https://yonetici.aidatim.com">Yönetici
+                                    Girişi</a></li>
+                            <li class="nav-item"><a class="dropdown-item" href="https://app.aidatim.pro">Mesken
+                                    Girişi</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="nav-item d-lg-none">
+                        <div class="navbar-hamburger">
+                            <button class="hamburger animate plain" data-toggle="offcanvas-nav"><span></span></button>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<div class="transition-overlay">
+    <div class="layer"></div>
+</div>
+
+<section class="wrapper bg-soft-primary">
+    <div class="container pt-10 pb-13 pt-md-14 pb-md-17 text-center">
+        <div class="row">
+            <div class="col-lg-10 col-xxl-8 mx-auto">
+                <h1 class="display-1 mb-0">Soru Cevap</h1>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="wrapper bg-light angled upper-end">
+
+    <div class="container py-14 py-md-16">
+        <div class="row">
+
+            <div class="col-lg-8">
+                <div id="accordion-1" class="accordion-wrapper">
+                    <div class="card">
+                        <div class="card-header" id="accordion-heading-70">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-70"
+                                    aria-expanded="true" aria-controls="accordion-collapse-70">5 yıl içinde iskan alınmazsa ne olur?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-70" class="collapse" aria-labelledby="accordion-heading-70"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Bina fiili olarak bitmiş ama iskan alınmamışsa da “Yapı ruhsatı alındıktan sonra iki yıl içinde inşaata başlanmazsa yada yapı ruhsatı tarihinden 5 yıl içinde yapı bitirilemezse yapı ruhsatı iptal olur. “ Gereği, Bina bitmiş bile olsa; yapı ruhsatı iptal ediliyor.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-83">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-83"
+                                    aria-expanded="true" aria-controls="accordion-collapse-83">Aidat ödeme yükümlülüğü ne zaman başlar?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-83" class="collapse" aria-labelledby="accordion-heading-83"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Aidat yükümlülüğü ne zaman başlar? Apartman ve konut sitelerinde, malik ve kiracıların genel giderlere Kat Mülkiyeti Kanunu kapsamında belirtildiği şekilde ödemesi gerekiyor. Malik, mülkiyetin sahipliğin kaydedildiği tarihten sonraki giderlerden sorumlu oluyor.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-85">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-85"
+                                    aria-expanded="true" aria-controls="accordion-collapse-85">Aidat ödemeyen ev sahibine ne yapılır?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-85" class="collapse" aria-labelledby="accordion-heading-85"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Kanunun 20.maddesine dayanarak gider veya avans payını ödemeyen kat maliki hakkında, diğer kat maliklerinden her biri veya yönetici tarafından, yönetim planına, bu Kanuna ve genel hükümlere göre dava açılabilir, icra takibi yapılabilir.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-80">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-80"
+                                    aria-expanded="true" aria-controls="accordion-collapse-80">Apartman aidat makbuzu zorunlu mu?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-80" class="collapse" aria-labelledby="accordion-heading-80"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Apartman aidatı ile ilgili hususlara Kat Mülkiyeti Kanunu'nda yer veriliyor. Her kat maliği sahibi olduğu konutun ortak gider aidatlarını ödemesi gerekiyor. ... Apartman aidat makbuzu kanunen bir zorunluluk taşımıyor. Ancak apartman yönetiminin makbuz kesmesi, ileride yaşanabilecek sorunların önüne geçebiliyor.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-87">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-87"
+                                    aria-expanded="true" aria-controls="accordion-collapse-87">Apartman aidatı nasıl belirlenir?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-87" class="collapse" aria-labelledby="accordion-heading-87"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Aidat tutarı her yıl sonunda yapılan kat malikleri olağan toplantısında değerlendirilir. Sürekli ihtiyaçlar veya apartman bakımı, iyileştirme gibi konularda alınan kararlara göre belirlenir. Aidat miktarı, tahmini aylık giderin daire sayısına bölünmesi ile belirlenir.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-96">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-96"
+                                    aria-expanded="true" aria-controls="accordion-collapse-96">Apartman aidatına faiz uygulanır mı?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-96" class="collapse" aria-labelledby="accordion-heading-96"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>KMK 22. maddeye göre, ortak gider ve avansı gününde ödemeyenler için aylık yüzde 5 oranında gecikme tazminatı uygulanıyor. Gecikme tazminatı, faiz değildir.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-98">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-98"
+                                    aria-expanded="true" aria-controls="accordion-collapse-98">Apartman aidatına nasıl itiraz edilir?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-98" class="collapse" aria-labelledby="accordion-heading-98"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Kat malikleri kurullarında alınan kararların iptalini talep mümkün. Ancak bu talep mahkemeye yapılır ve mahkeme talebi haklı bulursa, işletme projesinin tamamını veya itiraza uğrayan kısmını iptal edebilir. Bunun dışında kesinleşmiş işletme projelerinin tatbik kabiliyeti vardır, her kat maliki buna uymak zorundadır.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-103">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-103"
+                                    aria-expanded="true" aria-controls="accordion-collapse-103">Apartman boşluğuna eşya koymak yasak mı?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-103" class="collapse" aria-labelledby="accordion-heading-103"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Bina içerisindeki ortak alanların kullanımı bireysel kararlara göre belirlenmemektedir. ... Ayrıca bu tür boşluklara eşya konulması; olası bir acil durumda bina sakinlerinin dışarıya çıkabilmesini engellediği ve diğer kişilerin de hakkı olan yerlerin sahiplenilmesine neden olduğu için yasaklanmıştır.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-62">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-62"
+                                    aria-expanded="true" aria-controls="accordion-collapse-62">Apartman çatı giderlerine dükkanlar katılır mı?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-62" class="collapse" aria-labelledby="accordion-heading-62"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Tüm bu kanun maddeleri ile Yargıtay Kararlarına göre, çatı ana taşınmazın mutlak ortak alanı olup yönetim planınızda aksine düzenleme olmadıkça yapılan giderlere dükkan sahiplerinin de katılmaları gerekiyor.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-29">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-29"
+                                    aria-expanded="true" aria-controls="accordion-collapse-29">Apartman görevlisi kira öder mi?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-29" class="collapse" aria-labelledby="accordion-heading-29"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Konut kapıcıları yönetmeliği gereği kapıcıya tahsis edilen konut karşılığında kapıcı ücretinden kira adı altında kesinti yapılamaz. İş sözleşmesi devam ettiği sürece kira istenemez.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-34">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-34"
+                                    aria-expanded="true" aria-controls="accordion-collapse-34">Apartman görevlisi nasıl işe alınır?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-34" class="collapse" aria-labelledby="accordion-heading-34"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Kapıcıyı;Kat malikleri kurulu veya bu kurulun verdiği yetkiye dayanarak Yönetim kurulu yahut kurulun verdiği yetkiye dayanarak Yönetici işe alır. Bağımsız bölüm adedi 8'den az olan binalarda;kat malikleri,içlerinden birine yetki vererek, O'nun aracılığıyla kapıcı tutabilir.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-40">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-40"
+                                    aria-expanded="true" aria-controls="accordion-collapse-40">Apartman görevlisi yıllık izni kaç gün?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-40" class="collapse" aria-labelledby="accordion-heading-40"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Hizmet süresi: 1 yıldan 5 yıla kadar olanlara yılda 12 gün. 5 yıldan fazla ve 15 yıldan az olanlara yılda 18 gün. 15 yıl ve daha fazla olanlara yılda 24 gün,yıllık ücretli izin verilir.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-81">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-81"
+                                    aria-expanded="true" aria-controls="accordion-collapse-81">Apartman hesabı açmak zorunlu mu?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-81" class="collapse" aria-labelledby="accordion-heading-81"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>KMK' nun 35. Maddesine göre; Yönetici Topladığı paraları ve avansları yatırmak ve gerektiğinde almak üzere muteber bir bankada kendi adına fakat anagayrimenkulün yönetici sıfatı gösterilmek suretiyle, hesap açtırması gerekmektedir. Bu bir tercih yâda keyfiyet değil bir mecburiyet.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-93">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-93"
+                                    aria-expanded="true" aria-controls="accordion-collapse-93">Apartman kararları kaç kişi ile alınır?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-93" class="collapse" aria-labelledby="accordion-heading-93"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Apartmanlarda toplantı yeter sayısı 634 sayılı Kat Mülkiyeti Kanununda şu şekilde bilirtilmiştir; "Kat malikleri kurulu, kat maliklerinin sayı ve arsa payı bakımından yarısından fazlasıyla toplanır ve oy çokluğuyla, karar verir.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-105">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-105"
+                                    aria-expanded="true" aria-controls="accordion-collapse-105">Apartman otopark paylaşımı nasıl olmalı?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-105" class="collapse" aria-labelledby="accordion-heading-105"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Otoparklar binaların ortak kullanım alanlarıdır. Kat Mülkiyeti Kanunu na göre de ortak kullanım alanları arsa payı oranında kullanılmalıdır. Örneğin ; 10 dairelik bir apartmanda 10 otopark yeri var ise arsa payı 1 olan her daire için 1 otopark hakkı vardır.<br></p></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-106">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-106"
+                                    aria-expanded="true" aria-controls="accordion-collapse-106">Apartman otoparkında kimler hak sahibidir?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-106" class="collapse" aria-labelledby="accordion-heading-106"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Dükkanlar da dahil maliklerin ortak alanları malik oldukları arsa pay oranında kullanmaya hakları bulunuyor. Dolayısı ile dükkanlar, otopark alanını kullanma hakkına sahip oluyor.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-66">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-66"
+                                    aria-expanded="true" aria-controls="accordion-collapse-66">Apartman sorunlarını nereye şikayet edebilirim?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-66" class="collapse" aria-labelledby="accordion-heading-66"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Yakınma yöntemleri üçe ayrılmaktadır: Belediyeye şikayet etmek, Sulh Ceza Mahkemesi, Kolluk güçlerine şikayet. Bunun dışında apartman sakinleri bir araya gelerek imza toplayabilir ve sorun yaratan kişiyi binadan çıkartabilir.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-92">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-92"
+                                    aria-expanded="true" aria-controls="accordion-collapse-92">Apartman yönetici yardımcılığından nasıl istifa edilir?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-92" class="collapse" aria-labelledby="accordion-heading-92"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Yönetici, istifa dilekçesini görevini yaptığı apartman, site, bloğu Kat Malikleri Kurulu'na hitaben hazırlamalıdır. İstifa dilekçesinde hangi neden veya nedenlerden dolayı görevinden istifa ettiğini belirtmelidir. Görev yaptığı dönem içindeki yöneticiliğe dair tüm evrakları kurula sunacağını da ayrıca belirtebilir.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-89">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-89"
+                                    aria-expanded="true" aria-controls="accordion-collapse-89">Apartman Yöneticisi hesap vermezse ne olur?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-89" class="collapse" aria-labelledby="accordion-heading-89"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Yönetici kendisine yapılan isteme rağmen hesap vermiyorsa, kat maliki bu durumda hakimden müdahelesini isteyebiliyor. Kat maliki Sulh Hukuk Mahkemesine giderek, yöneticiye karşı dava açabiliyor.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-21">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-21"
+                                    aria-expanded="true" aria-controls="accordion-collapse-21">Apartman yöneticisi kapıcının işine son verebilir mi?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-21" class="collapse" aria-labelledby="accordion-heading-21"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Apartmanlarda görev yapan Kapıcıların işten çıkarılmasına Kat Malikleri Kurulu karar verir. Bu görev daha önce Yöneticiye verilmişse, Yönetici de işten çıkarma yapabilir.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-84">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-84"
+                                    aria-expanded="true" aria-controls="accordion-collapse-84">Apartman yöneticisi toplantı yapmadan aidat artırabilir mi?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-84" class="collapse" aria-labelledby="accordion-heading-84"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><div>&nbsp;Kat malikleri toplantısı ile yönetimin artan masrafları belgeleyebilmesi durumunda ve çoğunluk kararı alınması halinde aidata zam yapılması mümkündür.</div><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-91">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-91"
+                                    aria-expanded="true" aria-controls="accordion-collapse-91">Apartman yöneticisi toplantı yapmadan karar alabilir mi?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-91" class="collapse" aria-labelledby="accordion-heading-91"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Ayrıca kanunun 30. Maddesine göre kat malikleri kurulu, kat maliklerinin sayı ve arsa payı bakımından yarısından fazlasıyla toplanır ve oy çokluğuyla karar verir. Yani apartman yöneticisi kendi başına karar alamaz. Apartman yöneticisinin kendi başına karar almak gibi bir görevi bulunmuyor</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-61">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-61"
+                                    aria-expanded="true" aria-controls="accordion-collapse-61">Apartmanda çatı masrafı kime aittir?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-61" class="collapse" aria-labelledby="accordion-heading-61"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Bina çatı tamiratı işlerine ait masraflar hem kat malikleri hem de kiracılar için önem arz ediyor. Zannedildiğinin aksine çatı tadilatı masraflarını sadece son katta oturanlar değil tüm malikler eşit öder.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-109">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-109"
+                                    aria-expanded="true" aria-controls="accordion-collapse-109">Apartmanda giriş kat asansör parası öder mi?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-109" class="collapse" aria-labelledby="accordion-heading-109"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Dükkanlar, giriş katta oturanlar, 1. katta oturanlar ve asansör kullanmayanlar asansör parası ödemek istemiyor. Ancak kanun gereği kullanmasanız bile ortak gider sayıldığı için asansör parasını ödemek zorundasınız. KMK'nın 20. maddesinde “anagayrimenkulün giderlerine katılma” açık-net olarak düzenlenmiştir.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-54">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-54"
+                                    aria-expanded="true" aria-controls="accordion-collapse-54">Apartmanda Hangi işyerleri açılmaz?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-54" class="collapse" aria-labelledby="accordion-heading-54"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Kat Mülkiyeti Kanunu gereğince, apartmanda hastane, dispanser, klinik, poliklinik, ecza laboratuvarı gibi müesseseler kurulamıyor. Kat maliklerinin buna aykırı sözleşmeleri hükümsüz oluyor.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-72">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-72"
+                                    aria-expanded="true" aria-controls="accordion-collapse-72">Apartmandaki dükkanlar aidat verir mi?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-72" class="collapse" aria-labelledby="accordion-heading-72"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><div>Apartmanda aidat ödeme hususunda dükkanların bu gidere katılıp katılmayacağına ilişkin hükümler Kat Mülkiyeti Kanunu kapsamında 20. maddede açıklanıyor. Kanuna göre, dükkanlar da dahil tüm bağımsız bölümlerin aralarında başka anlaşma olmadıkça aidata katılmaları gerekiyor.</div><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-24">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-24"
+                                    aria-expanded="true" aria-controls="accordion-collapse-24">Apartmanlarda Kapıcı Dairesi Zorunluluğu
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-24" class="collapse" aria-labelledby="accordion-heading-24"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Konut kullanımlı olup bağımsız bölüm sayısı 30-dan fazla olan ve katı yakıt kullanan kaloriferli veya kalorifersiz binalar için bir adet kapıcı dairesi yapılması zorunludur.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-111">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-111"
+                                    aria-expanded="true" aria-controls="accordion-collapse-111">Asansör aylık bakım zorunlu mu?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-111" class="collapse" aria-labelledby="accordion-heading-111"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Asansörü monte eden veya onun yetkili servisi, monte edilen asansör için garanti süresi boyunca aylık bakım ve servis hizmetlerini vermek zorundadır. Garanti süresi içinde bina sorumlusu ile asansörü monte eden veya onun yetkili servisi arasında aylık bakım ve servis hizmetleri sözleşmesi yapılması zorunludur.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-116">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-116"
+                                    aria-expanded="true" aria-controls="accordion-collapse-116">Asansör etiketi zorunlu mu?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-116" class="collapse" aria-labelledby="accordion-heading-116"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Asansör periyodik muayenesinde asansörlere sarı etiket, kırmızı etiket, yeşil etiket yapıştırılır. Asansör Etiketleri Resmi Zorunluluğu vardır.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-108">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-108"
+                                    aria-expanded="true" aria-controls="accordion-collapse-108">Asansör masraflarına her daire katılmak zorunda mı?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-108" class="collapse" aria-labelledby="accordion-heading-108"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Evet, tüm daireler ve bağımsız bölümler içerisinde yer alan dükkanlar da asansör masraflarına katılmak zorundadır. ... Asansör aidatı ödemeyecek olan kişileri kat malikleri kurulu toplantısı ve yönetim planı belirler.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-118">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-118"
+                                    aria-expanded="true" aria-controls="accordion-collapse-118">Asansör ruhsatı nasıl alınır?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-118" class="collapse" aria-labelledby="accordion-heading-118"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Asansör ruhsatı almak için bağlı bulunan belediyeye başvuruda bulunmak gereklidir. Bunun için belediyeye bir dilekçe verilmelidir. Belediye bazı belgeler isteyecektir. Dilekçe ile birlikte istenilen belgelerde belediyeye sunulur.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-115">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-115"
+                                    aria-expanded="true" aria-controls="accordion-collapse-115">Asansör tesisat bakımında neler yapılır?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-115" class="collapse" aria-labelledby="accordion-heading-115"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Her Bakımda Yapılması Gerekli İşlemler:&nbsp; </p><p>Makine dairesinin temizlenmesi,&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p>Makine / Motor temizliği ve ekipman lastiği kontrolü,&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p>Yağ ve rulman gresi seviye kontrolü ve temizlenmesi,&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p> Motor kontaktörlerinin kontrolü ve temizlenmesi,&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p><p>&nbsp;Kumanda panosunun kontrolü ve temizlenmesi,</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-107">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-107"
+                                    aria-expanded="true" aria-controls="accordion-collapse-107">Asansör ücretini kimler öder?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-107" class="collapse" aria-labelledby="accordion-heading-107"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Apartmanlarda yapılacak ortak kullanım alanlarındaki değişiklikler, apartman sakinlerinin oy birliğini gerektirir. Asansör bakımı ve arıza durumunda ödenen onarım ücreti de eşit bölünerek ödenir. Ev sahibi de burada eşit miktarda ödeme yapmakla yükümlüdür.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-112">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-112"
+                                    aria-expanded="true" aria-controls="accordion-collapse-112">Asansörlerin Periyodik Kontrolleri kimler yapabilir?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-112" class="collapse" aria-labelledby="accordion-heading-112"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Asansör periyodik kontrolü; Bilim Sanayi ve Teknoloji Bakanlığı tarafından yetkilendirilmiş ve ilgili asansörün bulunduğu bina/yapının bağlı bulunduğu Belediye ile protokol imzalamış olan A Tipi Muayene Kuruluşu tarafından yapılır.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-113">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-113"
+                                    aria-expanded="true" aria-controls="accordion-collapse-113">Boş daire asansör parası öder mi?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-113" class="collapse" aria-labelledby="accordion-heading-113"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Evet,kat maliki daire boş olsada asansör bakım ücreti,sigorta vs ana giderlere katılmak zorundadır. Ancak apartman yönetimi aidat toplarken böyle bir ayırım yapmayıp apartman yıkama ve merdiven silme ücreti,otomatik ücreti,asansör elektriği vs bütün giderler için örneğin 50 Tl para toplamaktadır.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-74">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-74"
+                                    aria-expanded="true" aria-controls="accordion-collapse-74">Boş daireye kapıcı parası ödenir mi?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-74" class="collapse" aria-labelledby="accordion-heading-74"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Evet alınır. Yani evin boş ya da dolu olması aidat ödeyip ödememeyi etkilemiyor. Ev kullanılsa da kullanılmasa da ev sahibinin sitenin giderlerine ortak olması gerekiyor.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-79">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-79"
+                                    aria-expanded="true" aria-controls="accordion-collapse-79">Boş daireye yakıt parası ödenir mi?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-79" class="collapse" aria-labelledby="accordion-heading-79"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Özet olarak; daireleri boş halde kullanmayan ev sahipleri kömür parası, apartman aidatı, kapıcı parası yada ortak kullanımı ilgilendiren diğer tüm giderlere katılmak zorundadır. Kanuna göre, her kat malikinin yakıt giderine arsa payı oranında katılması mecburi kılınıyor.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-60">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-60"
+                                    aria-expanded="true" aria-controls="accordion-collapse-60">Dubleks çatı masrafı kime aittir?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-60" class="collapse" aria-labelledby="accordion-heading-60"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Çatı katları iskan alımı sonrasında dublexlere katılabiliyor.Bu durumda çatıları dublex dairelerin veya üst katın sahipleri kullanıyor. Ancak anahtar bu dublex yada üst kat sahiplerinde ya da kullanımı sadece bu kişilere aitse o zaman masraflarda bu kişilere aittir.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-95">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-95"
+                                    aria-expanded="true" aria-controls="accordion-collapse-95">Dubleks dairelerde aidat nasıl olur?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-95" class="collapse" aria-labelledby="accordion-heading-95"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Dubleks daire tapuda tek tapu olarak görünüyorsa tek aidat ödenir. Ancak ayrıldıysa ve artık ayrı bir tapusu var ise aidat ödemesi yapılması gerekir.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-82">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-82"
+                                    aria-expanded="true" aria-controls="accordion-collapse-82">Dükkan aidatı nasıl belirlenir?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-82" class="collapse" aria-labelledby="accordion-heading-82"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Aylık hesaplama ile ya da yıllık hesaplama ile bulunan giderler bağımsız bölümlerin m2'sine göre dağıtılır. Bu şekilde ödenecek aidat bulunmuş olur. Her bir dairenin m2'si 14,40 TL/m2 ile çarpılarak önce yıllık aidat bulunur, bu tutarın 12'ye bölünmesi ile de aylık aidat hesaplanmış olur.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-55">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-55"
+                                    aria-expanded="true" aria-controls="accordion-collapse-55">Dükkan önü ortak alan mıdır?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-55" class="collapse" aria-labelledby="accordion-heading-55"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Unutulmaması gereken nokta, dükkan önündeki boşluğun ortak yer sayılması ve maliklerin arsa payı oranında kullanımına sunulmuş olmasıdır. Yani bir başka ifadeyle, dükkan sahibinin de bu ortak kullanım alanında diğer malikler kadar hakkı vardır.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-73">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-73"
+                                    aria-expanded="true" aria-controls="accordion-collapse-73">Dükkanlar çatı masrafına katılır mı?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-73" class="collapse" aria-labelledby="accordion-heading-73"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Tüm bu kanun maddeleri ile Yargıtay Kararlarına göre, çatı ana taşınmazın mutlak ortak alanı olup yönetim planınızda aksine düzenleme olmadıkça yapılan giderlere dükkan sahiplerinin de katılmaları gerekiyor.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-71">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-71"
+                                    aria-expanded="true" aria-controls="accordion-collapse-71">Ev sahipleri hangi masrafları karşılar?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-71" class="collapse" aria-labelledby="accordion-heading-71"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Kiracı, kapıcı hizmeti, bekçi hizmeti, bahçıvan hizmeti, temizlik hizmeti, elektrik ve su hizmeti gibi günlük giderleri ödemekle yükümlüdür. Ev sahibi ise, çatı tadilatı, mantolama, asansör eklenmesi, asansör tamiri, dış cephe boyası, bağımsız bölüm eklenmesi gibi binanın kendisi ile ilgili giderleri karşılar.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-58">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-58"
+                                    aria-expanded="true" aria-controls="accordion-collapse-58">Genel olmayan dam terası nedir?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-58" class="collapse" aria-labelledby="accordion-heading-58"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Genel olmayan dam terasları, ulaşılması için mutlaka bir bağımsız bölümün içinden geçilmesi gereken teraslardır.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-45">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-45"
+                                    aria-expanded="true" aria-controls="accordion-collapse-45">Geriye dönük kaç yıllık izin parası alınır?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-45" class="collapse" aria-labelledby="accordion-heading-45"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>İşçi işten ayrılırken kullanılmayan izinlerin süreleri toplanır ve işçiye son ücreti üzerinden toplu olarak ödenir. Geriye dönük en fazla 5 yıllık izin parası istenebileceğine yönelik bilgiler doğru değildir. Zaman aşımı süresi yalnızca işçinin işten ayrılmasıyla başlar ve bu tarihten sonra 5 yıldır.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-43">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-43"
+                                    aria-expanded="true" aria-controls="accordion-collapse-43">Geriye dönük yıllık izin ücreti nasıl hesaplanır?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-43" class="collapse" aria-labelledby="accordion-heading-43"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Kullanılmaya hak kazanılmış ama kullanılmamış izinli gün sayısı hesaplaması için; çalışanın iş akdinin feshedildiği tarihteki günlük brüt maaş ücreti ile kullanılmayan izinli gün sayısı çarpılarak hesaplanır. Çıkan bu tutardan gerekli kesintiler yapılarak işçinin eline geçen tutar elde edilir.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-78">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-78"
+                                    aria-expanded="true" aria-controls="accordion-collapse-78">Hangi durumlarda apartman aidatı ödenmez?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-78" class="collapse" aria-labelledby="accordion-heading-78"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Aidatlar yönetim tarafından üstlenilen hizmetlerin yerine getirilmediği takdirde ödenmez. ... Hizmet alamadıkları konuları tek tek tespit eden malikler konuyu yönetime bildirmelerine rağmen aidat alınmaya devam ediyorsa, Cimer ve tüketici hakem heyetine de başvurabilirler.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-68">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-68"
+                                    aria-expanded="true" aria-controls="accordion-collapse-68">Inşaat ile ilgili şikayetler nereye yapılır?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-68" class="collapse" aria-labelledby="accordion-heading-68"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Eğer müteahhit söz konusu işleri yapmıyor, geciktiriyor veya yanlış yapıyor ise, maliye bakanlıkları ve belediyedeki beyaz masalara şikayet edilebilir.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-53">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-53"
+                                    aria-expanded="true" aria-controls="accordion-collapse-53">Işyeri açmak için apartman sakinlerinin izni gerekir mi?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-53" class="collapse" aria-labelledby="accordion-heading-53"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Kat Mülkiyeti Kanunu'na göre toplu yaşanan site ya da apartman gibi ortak yaşam alanlarını ilgilendiren yerleşimlerde iş yeri açabilmek için maliklerin izinleri ve onayı gereklidir. Bir sitenin bir dairesine işyeri açmak istiyorsanız, tüm kat maliklerinin muvafakatnamesini almalısınız.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-19">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-19"
+                                    aria-expanded="true" aria-controls="accordion-collapse-19">Kaç daireye kadar kapıcı zorunlu?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-19" class="collapse" aria-labelledby="accordion-heading-19"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Yönetmelik gereğince; katı yakıt kullanılan ve bağımsız bölüm sayısı 30'u geçen binalarda bir adet kapıcı dairesi, 75 bağımsız bölümü aşan binalarda iki adet kapıcı dairesi olma zorunluluğu bulunuyor.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-117">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-117"
+                                    aria-expanded="true" aria-controls="accordion-collapse-117">Kaç kata kadar asansör zorunludur?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-117" class="collapse" aria-labelledby="accordion-heading-117"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Yönetmeliğe göre, tek bağımsız bölümlü konutlar hariç uygulama imar planına göre kat adedi 3 olan binalarda asansör yeri bırakılması, 4 ve daha fazla olan binalarda ise asansör tesisi zorunlu olup, iskân edilen ve ortak alan bulunan bodrum katlar dâhil kat adedi 4 ve daha fazla olan binalarda asansör yapılması zorunludur.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-37">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-37"
+                                    aria-expanded="true" aria-controls="accordion-collapse-37">Kapici aidat toplamak zorunda mi?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-37" class="collapse" aria-labelledby="accordion-heading-37"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Yasal olarak böyle bir zorunluluk bulunmamaktadır. Kapıcınız ile yapacağınız iş sözleşmesi kapsamında bu ödemelerin bir kısmını ya da tamamını kat malikleri üstlenebilir.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-41">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-41"
+                                    aria-expanded="true" aria-controls="accordion-collapse-41">Kapıcı aynı zamanda yönetici olabilir mi?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-41" class="collapse" aria-labelledby="accordion-heading-41"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Bilindiği üzere, apartman yöneticisi kat malikleri genel kurulunda seçiliyor. Yapılan bu toplantıda apartmandan olmayan biri de yönetici olarak seçilebiliyor. Buna bağlı olarak kapıcının yönetici olarak seçilmesi de diğer kat maliklerinin elinde oluyor.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-22">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-22"
+                                    aria-expanded="true" aria-controls="accordion-collapse-22">Kapıcı başka bir işte çalışabilir mi?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-22" class="collapse" aria-labelledby="accordion-heading-22"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Kapıcının apartman ile yaptığı sözleşmede (iş sözleşmesi) aksine bir hüküm bulunmadığı sürece kapıcının başka bir işte çalışabilmesi mümkündür.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-30">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-30"
+                                    aria-expanded="true" aria-controls="accordion-collapse-30">Kapıcı dairesi amacı dışında kullanılır mi?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-30" class="collapse" aria-labelledby="accordion-heading-30"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Sığınakların bazen kapıcı dairesine dönüştürüldüğü ya da kiraya verildiği görülür. Gayrimenkul hukukuna göre sığınaklar kiraya verilemez ve amacı dışında kullanılamaz. Kapıcı dairelerinin mülkiyeti kat maliklerinin tamamına aittir. Tapuda bölüm kaydı olmadığı gibi arsa payı da yoktur.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-23">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-23"
+                                    aria-expanded="true" aria-controls="accordion-collapse-23">Kapıcı elektrik su parası öder mi?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-23" class="collapse" aria-labelledby="accordion-heading-23"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>İlgili yönetmeliğin 13. Maddesi'ne göre, kapıcının su, elektrik, ısınma ve sıcak su giderlerine kısmen ya da tamamen katılıp katılmayacağı sözleşme ile belirlenir.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-20">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-20"
+                                    aria-expanded="true" aria-controls="accordion-collapse-20">Kapıcı en fazla kaç saat çalışır?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-20" class="collapse" aria-labelledby="accordion-heading-20"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Kapıcı, Pazar günleri dışında 7.5 saat hesabı ile haftada 45 saat çalışmaya mecburdur.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-26">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-26"
+                                    aria-expanded="true" aria-controls="accordion-collapse-26">Kapıcı hangi hallerde işten çıkarılır?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-26" class="collapse" aria-labelledby="accordion-heading-26"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Sağlık sebepleri, ahlak ve iyiniyet kurallarına uyulmaması, ücretinin ödenmemesi, bir hafta veya daha fazla kapıcının çalışmasını engelleyici bir durumun ortaya çıkması, bildirimsiz fesih hakkı doğurur.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-31">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-31"
+                                    aria-expanded="true" aria-controls="accordion-collapse-31">Kapıcı iş sözleşmesinin feshi veya sona ermesi halinde kapıcı dairesini kaç gün içinde boşaltıp yöneticiye teslim eder?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-31" class="collapse" aria-labelledby="accordion-heading-31"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Kat malikleri kurulunca veya bu kurulca yetki verilen yönetici tarafından sözleşmeleri herhangi bir nedenle fesh edilen veya sona eren kapıcı, konutu onbeş gün içerisinde boşaltmak zorundadır.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-27">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-27"
+                                    aria-expanded="true" aria-controls="accordion-collapse-27">Kapıcı işten çıkarılırsa hakları nelerdir?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-27" class="collapse" aria-labelledby="accordion-heading-27"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Kapıcılar işten atıldıklarında veya kanunda belirtilen haller mevcutsa aynı normal bir işçi gibi kıdem tazminatı alırlar. Kapıcılar aynı normal bir çalışan gibi fazla mesai haklarını kıdem ve ihbar tazminatlarını alırlar. Sigortaları düzgün yapılmamışsa sigortanın tespiti ve tamamlanması için dava açabilirler.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-39">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-39"
+                                    aria-expanded="true" aria-controls="accordion-collapse-39">Kapıcı Pazar günü çalışır mı?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-39" class="collapse" aria-labelledby="accordion-heading-39"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Kapıcı, Pazar günleri dışında 7.5 saat hesabı ile haftada 45 saat çalışmaya mecburdur. Kanunen mümkün bulunan ve yönetici tarafından lüzum gösterilen fazla çalışmalar buna dahil değildir. 10- Günlük iş süresi aşağıda tesbit olunmuştur. Kapıcı, iş saatlerinden sayılmayan ara dinlenmelerinde tamamen serbesttir.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-25">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-25"
+                                    aria-expanded="true" aria-controls="accordion-collapse-25">Kapıcı sozlesmesi her yıl yenilenir mi?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-25" class="collapse" aria-labelledby="accordion-heading-25"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Belirli iş sözleşmelerinde belirlenen tarihte sözleşmenin süresi doluyor eğer yenilenmez ise sözleşme iptal oluyor. ... Sözleşmenin devam ettirilmesi isteniyor ise iş sözleşmesinin yenilenmesi gerekiyor</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-35">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-35"
+                                    aria-expanded="true" aria-controls="accordion-collapse-35">Kapıcıya ihbar tazminatı ödenir mi?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-35" class="collapse" aria-labelledby="accordion-heading-35"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Apartman yönetimi kapıcıyı ihbar süresine uymadan işten çıkartırsa, kapıcıya veya kapıcı ihbar süresine uymadan işten çıkması halinde, apartman yönetimine ihbar süresine ilişkin ücret tutarında tazminat ödemek zorundadır. İhbar tazminatı, kapıcının giydirilmiş son ücreti üzerinden ödenir.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-36">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-36"
+                                    aria-expanded="true" aria-controls="accordion-collapse-36">Kapıcıya kıdem tazminatı ödenir mi?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-36" class="collapse" aria-labelledby="accordion-heading-36"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Apartman ve sitelerde çalışan kapıcılar emekli olduklarında veya işten çıkartıldıklarında kıdem tazminatı ödenmesi gerekir. Kıdem tazminatı hesabına, kapıcılara tahsis edilen konutun rayiç kira bedeli ile su, elektrik, ısıtma giderleri de dahil edilir.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-102">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-102"
+                                    aria-expanded="true" aria-controls="accordion-collapse-102">Kat bahçesi ortak alan mı?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-102" class="collapse" aria-labelledby="accordion-heading-102"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><div>Kanunda belirtilene göre, bahçe katındaki daire sahiplerinin tapusunda bahçenin kullanımıyla ilgili herhangi bir bilgi yoksa burası ortak alan olarak kabul ediliyor. Bu durumda ise kat malikleri arsa payı oranında bahçeden yararlanma hakkına sahip oluyor.</div><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-77">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-77"
+                                    aria-expanded="true" aria-controls="accordion-collapse-77">Kat maliki olmak ne demek?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-77" class="collapse" aria-labelledby="accordion-heading-77"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Kat Mülkiyeti Kanunu'na göre inşaatı tamamlanmış ve kullanıma hazır bir yapının bağımsız alanları üzerindeki mülkiyet hakkına kat mülkiyeti, hak sahiplerine ise kat maliki adı verilir.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-86">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-86"
+                                    aria-expanded="true" aria-controls="accordion-collapse-86">Kat malikleri genel kurulu kimlerden oluşur?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-86" class="collapse" aria-labelledby="accordion-heading-86"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Kat maliki kurulu, ana gayrimenkulde kat maliki olan tüm apartman sakinleri, apartman yöneticisi ve yönetim denetçisinden oluşuyor.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-32">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-32"
+                                    aria-expanded="true" aria-controls="accordion-collapse-32">Kendi isteği ile işten ayrilan kapıcıya tazminat ödenir mi?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-32" class="collapse" aria-labelledby="accordion-heading-32"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>İşten kendi isteğiyle ayrılan (istifa eden) işçinin kıdem tazminat talep hakkı bulunmamaktadır. Fakat işçi, “İş mevzuatında gösterilen haklı bir sebep” ileri sürerek işyerinden ayrılırsa, işi kendi bırakmış olsa dahi kıdem tazminatına hak kazanacaktır.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-38">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-38"
+                                    aria-expanded="true" aria-controls="accordion-collapse-38">Kendisine konut tahsis edilmemiş Kapıcının günlük çalışma süresi en çok kaça bölünebilir?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-38" class="collapse" aria-labelledby="accordion-heading-38"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Kapıcı konutu tahsis edilmiş işyerinde çalışma biçimine göre günlük çalışma süresi en çok dörde bölünebilir. Ara dinlenmesi çalışma süresinden sayılmaz. Çalışma saatleri, yaz ve kış saat uygulamaları ve iklim şartları dikkate alınarak düzenlenebilir.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-33">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-33"
+                                    aria-expanded="true" aria-controls="accordion-collapse-33">Kimler kapıcı olabilir?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-33" class="collapse" aria-labelledby="accordion-heading-33"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Kapıcılık yapmanın her hangi bir şartı bulunmamaktadır. Özel olarak kalorifer ile ilgili bir görevinin olması durumunda çalışan bu konu ile ilgili kursa gönderilmektedir. Böylece kazan dairesi içerisinde yapılacak çalışmalarda daha dikkatli ve duyarlı olacaktır.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-90">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-90"
+                                    aria-expanded="true" aria-controls="accordion-collapse-90">Kiracı hangi masrafları kiradan düşebilir?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-90" class="collapse" aria-labelledby="accordion-heading-90"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Asansör, dış cephe boyanması gibi apartman gideri olarak tanımlanabilecek giderleri kiracı ev sahibinden temin edebilir. Ev içinde meydana gelen sıva dökülmesi, kapı, lamba vb. armatürlerin kırık olması durumunda kiracı bu masrafları ev sahibinden talep edebilir veya anlaşarak kiradan düşebilir.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-18">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-18"
+                                    aria-expanded="true" aria-controls="accordion-collapse-18">Konut kapıcıları iş kanunu kapsamında mıdır?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-18" class="collapse" aria-labelledby="accordion-heading-18"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>İş kanunları içerisinde Konut Kapıcıları tanımlanan ve kapsamı yasalar çerçevesinde belirlenen bir kavramdır. Kapıcılık hizmetleri, diğer işlere göre bir farklılık gösterir. ... Bu nedenle 1475 sayılı yasada olduğu gibi, 4857 sayılı İş Kanununda da konut kapıcıları hakkında ayrı düzenlemeler getirilmiştir.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-88">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-88"
+                                    aria-expanded="true" aria-controls="accordion-collapse-88">Ödenmeyen apartman aidatları nasıl tahsil edilir?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-88" class="collapse" aria-labelledby="accordion-heading-88"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Ödemekle mükellef olan ancak aidatı ödemeyen kimselere, borcun ödenmesi için ilk olarak ihtarname çekiliyor. İhtarnameyi alan ev sahibinin aidat borcunu faiziyle birlikte ödemesi gerekiyor. Bunun yanı sıra apartman yönetimi, ilgili kat malikine Sulh Hukuk Mahkemesinde dava da açabiliyor.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-76">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-76"
+                                    aria-expanded="true" aria-controls="accordion-collapse-76">Ortak alan giderleri nelerdir?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-76" class="collapse" aria-labelledby="accordion-heading-76"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Apartman ortak giderleri nelerdir? Apartman ortak giderleri; kapıcı, kaloriferci, bekçi, yönetici ve bahçıvan ücretleri, ana gayrimenkulün sigorta primleriyle bütün ortak yerlerin koruma, bakım, onarım ve güçlendirme giderleri ve ortak tesislerin işletme giderleridir.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-64">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-64"
+                                    aria-expanded="true" aria-controls="accordion-collapse-64">Ortak kullanım alanı işgali nereye şikayet edilir?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-64" class="collapse" aria-labelledby="accordion-heading-64"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Eğer işgal varsa önce belediyeye şikayet dilekçesi vereceksiniz. Belediyenin yanıtına göre sulh hukuk mahkemesinde müdahalenin menni davası açacaksınız.1</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-99">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-99"
+                                    aria-expanded="true" aria-controls="accordion-collapse-99">Ortak kullanım alanı işgali nereye şikayet edilir?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-99" class="collapse" aria-labelledby="accordion-heading-99"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Eğer işgal varsa önce belediyeye şikayet dilekçesi vereceksiniz. Belediyenin yanıtına göre sulh hukuk mahkemesinde müdahalenin menni davası açacaksınız.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-65">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-65"
+                                    aria-expanded="true" aria-controls="accordion-collapse-65">Ortak kullanım alanları kimler tarafından ve nasıl kullanılır?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-65" class="collapse" aria-labelledby="accordion-heading-65"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Kat Mülkiyeti Kanunu'nda ortak kullanım alanları ve tasarrufu ile ilgili hükümlere yer veriliyor. Taşınmazlar üzerinde bağımsız bölümlerin harici olarak tüm maliklerin kullanımına ayrılan ortak kullanım alanları kat malikleri tarafından kendisine düşen borçları ve yükümleri yerine getirmemek suretiyle kullanılabiliyor.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-69">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-69"
+                                    aria-expanded="true" aria-controls="accordion-collapse-69">Oturma izni almayan müteahhit nereye şikayet edilir?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-69" class="collapse" aria-labelledby="accordion-heading-69"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Oturma izni almayan müteahhitleri, Sulh Hukuk Mahkemelerine şikayet edebilirsiniz.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-104">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-104"
+                                    aria-expanded="true" aria-controls="accordion-collapse-104">Projede bahçe gözüken yere otopark yapılabilir mi?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-104" class="collapse" aria-labelledby="accordion-heading-104"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Yargıtay'ın yerleşik içtihadı ve Genel Kurul kararları bakın şöyle: "Mimari proje ve yönetim planında "bahçe" olarak görülmeyen alanlar "boşluk" sayılıyor ve apartman yönetim kurulunun oyçokluğu ile bu alanları otoparka çevirmek mümkün olabiliyor.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-67">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-67"
+                                    aria-expanded="true" aria-controls="accordion-collapse-67">Rahatsızlık veren komşu nereye şikayet edilir?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-67" class="collapse" aria-labelledby="accordion-heading-67"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Komşuluk hukukuna riayet etmeyip de etrafına rahatsızlık veren kişiyi öncelikle kolluk güçlerine bildirmek gerekiyor. Böylece şikayetinizi de belgelemiş olursunuz. Yine de rahatsızlık vermeye devam ediyorsa komşunuz, Sulh Hukuk Mahkemesinde dava açarak bu rahatsızlığın giderilmesini talep edebilirsiniz.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-28">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-28"
+                                    aria-expanded="true" aria-controls="accordion-collapse-28">Sigortasız kapıcı çalıştırma cezasını kim öder?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-28" class="collapse" aria-labelledby="accordion-heading-28"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Yargıtay 18 H.D.' nin 30.03.2000 tarih ve 2000/3545 sayılı Kararında, kapıcı, kat malikleri kurulu kararları doğrultusunda sigortasız olarak istihdam edildiği takdirde bundan dolayı gecikme zammı ve idari para cezasından tüm kat maliklerinin müşterek sorumlu tutulmaları gerektiği vurgulanmıştır.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-42">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-42"
+                                    aria-expanded="true" aria-controls="accordion-collapse-42">Site görevlisinin kıdem tazminatını kim öder?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-42" class="collapse" aria-labelledby="accordion-heading-42"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Kıdem tazminatı işveren tarafından ödenir. Apartman ve Sitelerde işveren; konutun maliki veya ortaklarıdır, kiracı değildir; ancak Kat Mülkiyeti Kanunu gereği kıdem tazminatını kat maliki ödemez ise kiracının sorumluluğu kira miktarı ise sınırlı olup, yaptığı ödeme kira borcundan düşülür.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-100">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-100"
+                                    aria-expanded="true" aria-controls="accordion-collapse-100">Site yönetiminde denetim kurulu istifa ederse ne olur?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-100" class="collapse" aria-labelledby="accordion-heading-100"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Eğer yönetim kurulu yoksa sadece bir yönetici varsa yönetici istifa ederse , kat malikleri kurulu toplanır ve yeni bir yönetici seçerler veya istifa eden yöneticiyi eğer istiyorsa yeniden seçebilirler. İstifa eden yöneticinin yerine seçilen yönetici bir yıl görev yapar.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-101">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-101"
+                                    aria-expanded="true" aria-controls="accordion-collapse-101">Site yönetiminde denetim kurulu istifa ederse ne olur?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-101" class="collapse" aria-labelledby="accordion-heading-101"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Eğer yönetim kurulu yoksa sadece bir yönetici varsa yönetici istifa ederse , kat malikleri kurulu toplanır ve yeni bir yönetici seçerler veya istifa eden yöneticiyi eğer istiyorsa yeniden seçebilirler. İstifa eden yöneticinin yerine seçilen yönetici bir yıl görev yapar.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-94">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-94"
+                                    aria-expanded="true" aria-controls="accordion-collapse-94">Tapu olmadan aidat ödenir mi?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-94" class="collapse" aria-labelledby="accordion-heading-94"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Yapı kullanma izni veya Kat irtifakı belgesi alınma tarihinden önceki giderleri müteahhitin kendisi karşılaması gerekiyor. Kat irtifakı alındıktan sonra yeni kat malikleri aldıkları aydan itibaren oturmasalar da aidatı ödemek durumunda oluyorlar.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-63">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-63"
+                                    aria-expanded="true" aria-controls="accordion-collapse-63">Teras kapama belediye izni nasıl alınır?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-63" class="collapse" aria-labelledby="accordion-heading-63"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Teras kapatma izin için terasın bulunduğu il, ilçedeki belediye ye giderek yapı ruhsatı izninin alınması gerekmektedir. Bu izni almadan yapılacak olan uygulamada zabıta ekipleri ilk müdahalesinde uygulamayı durdurma kararı ile olacaktır. Bu müdahalede genellikle cüzi bir para cezası ödersiniz.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-57">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-57"
+                                    aria-expanded="true" aria-controls="accordion-collapse-57">Teras kullanım hakkı nasıl alınır?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-57" class="collapse" aria-labelledby="accordion-heading-57"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Yasa kapsamına göre, ortak alanda bulunan ve herkesin kullanımına açık imar edilmiş terasın kullanım hakkı, herhangi bir sözleşme yapılmamış ise tüm kat sahiplerine verilmiştir.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-56">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-56"
+                                    aria-expanded="true" aria-controls="accordion-collapse-56">Teras ortak kullanım alanı mıdır?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-56" class="collapse" aria-labelledby="accordion-heading-56"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Kat mülkiyeti kanunu gereğince; çatılar, bacalar, genel dam terasları, yağmur olukları, apartman ortak kullanım alanları arasında bulunur.</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-59">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-59"
+                                    aria-expanded="true" aria-controls="accordion-collapse-59">Teras, çatıya dönüştürülmek istenirse
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-59" class="collapse" aria-labelledby="accordion-heading-59"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Teras, çatıya dönüştürülmek istenirse öncelikle, bütün kat mâliklerinden yazılı muvafakat alınması gerekir</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-44">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-44"
+                                    aria-expanded="true" aria-controls="accordion-collapse-44">Yıllık izin ücreti ne zaman ödenir?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-44" class="collapse" aria-labelledby="accordion-heading-44"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p>Kanunda “iş sözleşmesinin, herhangi bir nedenle sona ermesi halinde işçinin hak kazanıp da kullanmadığı yıllık izin sürelerine ait ücreti, sözleşmenin sona erdiği tarihteki ücreti üzerinden kendisine veya hak sahiplerine ödenir. Bu ücrete ilişkin zaman aşımı iş sözleşmesinin sona erdiği tarihten itibaren başlar</p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-75">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-75"
+                                    aria-expanded="true" aria-controls="accordion-collapse-75">Yönetici aidat öder mi?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-75" class="collapse" aria-labelledby="accordion-heading-75"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Apartman aidatı ile ilgili kanuni düzenlemeleri Kat Mülkiyeti Kanunu kapsıyor. ... Ancak kat malikleri kurulu yöneticinin apartman aidatının tamamına katılmayacağı yönünde bir karar da alabiliyor. Bu durumda apartman yöneticisi aidat ödemiyor.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-114">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-114"
+                                    aria-expanded="true" aria-controls="accordion-collapse-114">Yönetici asansörü kapatabilir mi?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-114" class="collapse" aria-labelledby="accordion-heading-114"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Apartman yönetimi, asansörü kapatma kararı alabiliyor. Asansörde yük taşımanın yasaklanması hakkında kat malikleri kurulu tarafından alınmış bir karar varsa ve bu karar, karar defterine kaydedilebiliyor.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-97">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-97"
+                                    aria-expanded="true" aria-controls="accordion-collapse-97">Yönetici istifa ederse yerine kim geçer?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-97" class="collapse" aria-labelledby="accordion-heading-97"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Apartman yöneticisinin istifasından sonra kat malikleri kurulu olağanüstü toplantı yaparak yeni bir yönetici seçimi yapar. Seçilen yönetici seçildiği tarihten itibaren 1 yıl görev yapar. Kat malikleri kurulu kararına göre yeni yönetici istifa eden yöneticinin kalan süresi kadar da göreve seçilebilir.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <div class="card-header" id="accordion-heading-110">
+                            <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-110"
+                                    aria-expanded="true" aria-controls="accordion-collapse-110">Zemin kat daireler asansör aidatı öder mi?
+                            </button>
+                        </div>
+                        <div id="accordion-collapse-110" class="collapse" aria-labelledby="accordion-heading-110"
+                             data-bs-target="#accordion-1">
+                            <div class="card-body">
+                                <p><p>Kural gereği zemin katta oturanlar asansörü kullanmadıklarını iddia ederek asansör masraflarını ödemekten kaçınamaz. Ancak binanın yönetim planına bağlı olarak bu kural değişebilir. ... Yani zemin katta oturanlar için aslen ortak gider tanımına giren asansör masrafları yönetim planı ile istisna hale gelebilir.</p><div><br></div></p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="col-lg-4 sidebar sticky-sidebar mt-md-0 py-16">
+                <div class="card bg-pale-green">
+                    <div class="card-body">
+                        <img src="https://www.aidatim.com/Tasarim/img/icons/chat-2.svg"
+                             class="svg-inject icon-svg icon-svg-md text-red mb-4" alt=""/>
+                        <h4>Bir Uzmana Sorun</h4>
+
+                        <script src="https://www.google.com/recaptcha/api.js?render=6LdJ9akUAAAAAOnAvAinexc-FKMw3OOrQHAsZykY"></script>
+                        <script>
+                            grecaptcha.ready(function () {
+                                grecaptcha.execute('6LdJ9akUAAAAAOnAvAinexc-FKMw3OOrQHAsZykY', {action: 'homepage'})
+                                    .then(function (token) {
+                                        $("#rc_input").val(token);
+                                    });
+                            });
+                        </script>
+                                                <form class="contact-form" method="post" action="">
+                            <input id="rc_input" type="hidden" name="recaptcha">
+                            <p class="mt-2 mb-1">İsim Soyisim</p>
+                            <div class="form-label-group mb-4">
+                                <input id="textInputExample" name="Isim" type="text" class="form-control" placeholder="İsim Soyisim"  required="required"
+                                       data-error="İsim Soyisim gerekli">
+                                <label for="textInputExample">İsim Soyisim</label>
+                            </div>
+                            <p class="mt-2 mb-1">Mail Adresi</p>
+                            <div class="form-label-group mb-4">
+                                <input name="Mail" id="textInputExample" type="email" required class="form-control" placeholder="Mail Adresi">
+                                <label for="textInputExample">Mail Adresi</label>
+                            </div>
+
+                            <p class="mt-2 mb-1">Sorunuz</p>
+                            <div class="form-label-group mb-4">
+                                <textarea name="Soru" id="textareaExample" class="form-control" rows="3"
+                                          placeholder="Textarea" required></textarea>
+                                <label for="textareaExample">Sorunuzu detaylı olarak anlatınız.</label>
+                            </div>
+                            <button type="submit" class="btn btn-success me-1 mb-2 mb-md-0">Gönder</button>
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+<section class="wrapper bg-light angled upper-end lower-end"></section>
+<footer class="bg-soft-primary">
+    <div class="container pt-15 pt-md-17 pb-13 pb-md-15">
+        <div class="row gy-6 gy-lg-0">
+            <div class="col-lg-4">
+                <div class="widget">
+                    <h3 class="h2 mb-3">Yönetimde Yeni Dönem!</h3>
+                    <p class="lead mb-5">Size özel yönetici asistanınız ile birlikte rahat, güvenli, doğru yönetim ve
+                        yazılım hizmetini hemen almaya başlayın.</p>
+                    <div class="d-flex justify-content-center justify-content-lg-start" data-cues="slideInDown"
+                         data-group="page-title-buttons">
+                        <a href="ucretsiz-bina-yonetim-programi" class="btn btn-primary rounded me-2">Hemen Üye Ol</a><br>
+                        <a href="https://yonetici.aidatim.com" class="btn btn-outline-success me-2 d-none d-sm-block"> <i
+                                    class="uil uil-building"></i> Yönetim Paneli</a>
+						<a href="https://aidatim.pro" class="btn btn-outline-danger"> <i class="uil uil-shield-check"></i> Şirketler için</a>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-lg-2 offset-lg-2">
+                <div class="widget">
+                    <h4 class="widget-title mb-3">Kurumsal</h4>
+                    <ul class="list-unstyled mb-0">
+                        <li><a href="kurumsal">Şirketimiz</a></li>
+                        <li><a href="banka-bilgileri">Banka Bilgileri</a></li>
+                        <li><a href="bayilik">İş Birlikleri</a></li>
+                        <li><a href="iletisim">İletişim</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-4 col-lg-2">
+                <div class="widget">
+                    <h4 class="widget-title mb-3">Bilgi</h4>
+                    <ul class="list-unstyled mb-0">
+                        <li><a href="soru-cevap">Soru Cevap</a></li>
+                        <li><a href="https://www.youtube.com/channel/UCAbynImav3Q-Onz-Z0cAVNg">Eğitim Videoları</a></li>
+                        <li><a href="/aydinlatma-metni">Aydınlatma Metni</a></li>
+                        <li><a href="/hizmet-sozlesmesi">Hizmet Sözleşmesi </a></li>
+                        <li><a href="/gizlilik-politikasi">Gizlilik Politikasi </a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-4 col-lg-2">
+                <div class="widget">
+                    <img style="margin-bottom: 10px;" width="140" src="https://www.aidatim.com/Cdn/logo.svg"
+                         alt="Aidatım Ücretsiz Bina Yönetim Programı"/>
+                    <address class="m-0"><i class="uil uil-location-point"></i> Erciyes Teknopark 67/30
+                    </address>
+                    <a href="mailto:bilgi@aidatim.com"><i class="uil uil-envelope-edit"></i> bilgi@aidatim.com</a><br>
+                    <a href="tel:08508403806"><i class="uil uil-headphones"></i> 0850 840 3806</a><br>
+                    <a href="https://api.whatsapp.com/send?phone=905324003806"><i class="uil uil-whatsapp"></i> 0532 400 3806</a>
+                </div>
+            </div>
+        </div>
+        <hr class="mt-13 mt-md-15 mb-7"/>
+        <div class="d-md-flex align-items-center justify-content-between">
+
+            <nav class="nav social text-md-start">
+                <a href="https://apps.apple.com/tr/app/aidatim-oim/id1512601021?l=tr"><img
+                            src="https://www.aidatim.com/Cdn/apple.svg" alt="Apple Yönetim Uygulaması" width="100"> </a>
+                <a href="https://play.google.com/store/apps/details?id=com.aidatim.oim"><img
+                            src="https://www.aidatim.com/Cdn/android.svg" alt="Android Yönetim Uygulaması" width="100"> </a>
+            </nav>
+            <nav class="nav social text-md-end">
+                <a href="https://www.facebook.com/aidatimcom/"><i class="uil uil-facebook"></i></a>
+                <a href="https://www.instagram.com/aidatimcom/?hl=tr"><i class="uil uil-instagram"></i></a>
+                <a href="https://www.linkedin.com/company/11463880/"><i class="uil uil-youtube"></i></a>
+                <a href="https://www.youtube.com/channel/UCAbynImav3Q-Onz-Z0cAVNg"><i class="uil uil-linkedin"></i></a>
+            </nav>
+        </div>
+    </div>
+</footer>
+<div class="progress-wrap">
+    <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+        <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
+    </svg>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous"></script>
+<script src="https://www.aidatim.com/Tasarim/js/plugins.js"></script>
+<script src="https://www.aidatim.com/Tasarim/js/theme.js"></script>
+</body>
+
+</html>
