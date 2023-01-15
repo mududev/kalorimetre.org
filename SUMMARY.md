@@ -21,7 +21,7 @@
 ## Yönetmelik <a href="#merkezi-isitma-ve-sihhi-sicak-su-sistemlerinde-isinma-ve-sihhi-sicak-su-giderlerinin-paylaşılmasına-ilişkin-yönetmelik" id="merkezi-isitma-ve-sihhi-sicak-su-sistemlerinde-isinma-ve-sihhi-sicak-su-giderlerinin-paylaşılmasına-ilişkin-yönetmelik"></a>
 
 * [1⃣ Birinci Bölüm](merkezi-isitma-ve-sihhi-sicak-su-sistemlerinde-isinma-ve-sihhi-sicak-su-giderlerinin-paylaşılmasına-ilişkin-yönetmelik/birinci-boeluem.md)
-* [İkinci Bölüm](merkezi-isitma-ve-sihhi-sicak-su-sistemlerinde-isinma-ve-sihhi-sicak-su-giderlerinin-paylaşılmasına-ilişkin-yönetmelik/ikinci-boeluem.md)
+* [2⃣ İkinci Bölüm](merkezi-isitma-ve-sihhi-sicak-su-sistemlerinde-isinma-ve-sihhi-sicak-su-giderlerinin-paylaşılmasına-ilişkin-yönetmelik/ikinci-boeluem.md)
 
 ## Hesaplama Standartları
 
