@@ -16,7 +16,7 @@
   * [15 Derece Kuralı Nedir?](konular/nedir/15-derece-kurali-nedir.md)
   * [M-Bus Nedir?](konular/nedir/m-bus-nedir.md)
 * [Tasarruf](konular/tasarruf.md)
-* [Taslak Yönetmelik](konular/taslak-yoenetmelik.md)
+* [Taslak Yönetmelik Hk.](konular/taslak-yoenetmelik-hk..md)
 
 ## Yönetmelik <a href="#merkezi-isitma-ve-sihhi-sicak-su-sistemlerinde-isinma-ve-sihhi-sicak-su-giderlerinin-paylaşılmasına-ilişkin-yönetmelik" id="merkezi-isitma-ve-sihhi-sicak-su-sistemlerinde-isinma-ve-sihhi-sicak-su-giderlerinin-paylaşılmasına-ilişkin-yönetmelik"></a>
 
@@ -25,10 +25,9 @@
 
 ## Hesaplama Standartları
 
-* [Isı Pay Ölçer Hesabı](hesaplama-standartlari/isipay-olcer-nasil-hesaplanir.md)
-* [Kalorimetre Sayaç Hesabı](hesaplama-standartlari/kalorimetre-sayac-hesabi.md)
-* [Kalorimetre ve Sıcak Su Hesabı](hesaplama-standartlari/kalorimetre-ve-sicak-su-hesabi.md)
-* [Sıcak Su Hesabı](hesaplama-standartlari/sicak-su-hesabi.md)
+* [Isıtma Paylaşım Hesabı](hesaplama-standartlari/isitma-paylasim-hesabi.md)
+* [Isıtma ve Sıhhî Sıcak Su Paylaşım Hesaplaması](hesaplama-standartlari/isitma-ve-sihhi-sicak-su-paylasim-hesaplamasi.md)
+* [Sıhhî Sıcak Su Paylaşım Hesaplaması](hesaplama-standartlari/sihhi-sicak-su-paylasim-hesaplamasi.md)
 
 ## Sektörel Rehber
 

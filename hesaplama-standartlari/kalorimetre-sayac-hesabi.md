@@ -1,2 +1,0 @@
-# Kalorimetre Sayaç Hesabı
-
