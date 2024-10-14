@@ -30,6 +30,8 @@
 
 ## Hesaplama Standartları
 
+* [Mevzuat Kodları ve Anlamları](hesaplama-standartlari/mevzuat-kodlari-ve-anlamlari.md)
+* [Örnek Hesaplama](hesaplama-standartlari/ornek-hesaplama.md)
 * [Isıtma Paylaşım Hesabı](hesaplama-standartlari/isitma-paylasim-hesabi.md)
 * [Isıtma ve Sıhhî Sıcak Su Paylaşım Hesaplaması](hesaplama-standartlari/isitma-ve-sihhi-sicak-su-paylasim-hesaplamasi.md)
 * [Sıhhî Sıcak Su Paylaşım Hesaplaması](hesaplama-standartlari/sihhi-sicak-su-paylasim-hesaplamasi.md)
