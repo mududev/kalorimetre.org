@@ -25,8 +25,8 @@
 
 ## Yönetmelik <a href="#merkezi-isitma-ve-sihhi-sicak-su-sistemlerinde-isinma-ve-sihhi-sicak-su-giderlerinin-paylaşılmasına-ilişkin-yönetmelik" id="merkezi-isitma-ve-sihhi-sicak-su-sistemlerinde-isinma-ve-sihhi-sicak-su-giderlerinin-paylaşılmasına-ilişkin-yönetmelik"></a>
 
-* [1⃣ Birinci Bölüm](merkezi-isitma-ve-sihhi-sicak-su-sistemlerinde-isinma-ve-sihhi-sicak-su-giderlerinin-paylaşılmasına-ilişkin-yönetmelik/birinci-boeluem.md)
-* [2⃣ İkinci Bölüm](merkezi-isitma-ve-sihhi-sicak-su-sistemlerinde-isinma-ve-sihhi-sicak-su-giderlerinin-paylaşılmasına-ilişkin-yönetmelik/ikinci-boeluem.md)
+* [1️⃣ Birinci Bölüm](merkezi-isitma-ve-sihhi-sicak-su-sistemlerinde-isinma-ve-sihhi-sicak-su-giderlerinin-paylaşılmasına-ilişkin-yönetmelik/birinci-boeluem.md)
+* [2️⃣ İkinci Bölüm](merkezi-isitma-ve-sihhi-sicak-su-sistemlerinde-isinma-ve-sihhi-sicak-su-giderlerinin-paylaşılmasına-ilişkin-yönetmelik/ikinci-boeluem.md)
 
 ## Hesaplama Standartları
 
@@ -43,6 +43,6 @@
 ## Linkler
 
 * [🇹🇷 Bakanlık Sitesi](https://www.csb.gov.tr/)
-* [⏱ Okuma Programı](https://www.fabsis.com.tr)
+* [⏱️ Okuma Programı](https://www.fabsis.com.tr)
 * [🏢 Yönetim Programı](https://www.aidatim.com)
 * [📖 Resmi Gazete](https://www.resmigazete.gov.tr/eskiler/2008/04/20080414M1-3.htm)
